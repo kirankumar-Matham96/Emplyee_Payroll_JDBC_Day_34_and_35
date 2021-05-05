@@ -47,16 +47,4 @@ public class EmployeePayrollServices {
             System.out.println(" " + driverClass.getClass().getName());
         }
     }
-
-    /**
-     * UC2
-     */
-
-    /**
-     * UC3
-     */
-
-    /**
-     * UC4
-     */
 }
